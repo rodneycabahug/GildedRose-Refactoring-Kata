@@ -1,0 +1,16 @@
+﻿[
+  {
+    Name: Aged Brie,
+    SellIn: -1,
+    Quality: 12
+  },
+  {
+    Name: Aged Brie,
+    SellIn: -1,
+    Quality: 50
+  },
+  {
+    Name: Aged Brie,
+    Quality: 11
+  }
+]

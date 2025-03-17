@@ -1,0 +1,16 @@
+﻿[
+  {
+    Name: Conjured Mana Cake,
+    SellIn: 2,
+    Quality: 4
+  },
+  {
+    Name: Conjured Mana Cake,
+    SellIn: -1,
+    Quality: 2
+  },
+  {
+    Name: Conjured Mana Cake,
+    SellIn: -1
+  }
+]
